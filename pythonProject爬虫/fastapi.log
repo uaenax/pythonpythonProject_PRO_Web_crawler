@@ -1,0 +1,10 @@
+2023-05-17 13:02:57,276"- selector_events.py[line:58] - DEBUG: Using selector: SelectSelector
+2023-05-17 13:03:04,620"- 10-简单web服务器搭建与logging日志整合.py[line:22] - INFO: 访问/首页
+2023-05-17 13:03:04,750"- 10-简单web服务器搭建与logging日志整合.py[line:32] - INFO: 访问/images/0.jpg/图片
+2023-05-17 13:03:04,750"- 10-简单web服务器搭建与logging日志整合.py[line:32] - INFO: 访问/images/1.jpg/图片
+2023-05-17 13:03:04,812"- 10-简单web服务器搭建与logging日志整合.py[line:32] - INFO: 访问/images/2.jpg/图片
+2023-05-17 13:03:04,813"- 10-简单web服务器搭建与logging日志整合.py[line:32] - INFO: 访问/images/3.jpg/图片
+2023-05-17 13:03:04,814"- 10-简单web服务器搭建与logging日志整合.py[line:32] - INFO: 访问/images/4.jpg/图片
+2023-05-17 13:03:04,816"- 10-简单web服务器搭建与logging日志整合.py[line:32] - INFO: 访问/images/6.jpg/图片
+2023-05-17 13:03:04,822"- 10-简单web服务器搭建与logging日志整合.py[line:32] - INFO: 访问/images/5.jpg/图片
+2023-05-17 13:03:18,257"- 10-简单web服务器搭建与logging日志整合.py[line:40] - INFO: 访问/gdp.html/页面

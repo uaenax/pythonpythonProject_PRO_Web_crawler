@@ -1,0 +1,5 @@
+2023-05-17 12:50:46,080"- 9-Python中logging日志信息写入文件.py[line:12] - DEBUG: 这是一个debug级别的日志
+2023-05-17 12:50:46,080"- 9-Python中logging日志信息写入文件.py[line:13] - INFO: 这是一个info级别的日志
+2023-05-17 12:50:46,080"- 9-Python中logging日志信息写入文件.py[line:14] - WARNING: 这是一个warning级别的日志
+2023-05-17 12:50:46,080"- 9-Python中logging日志信息写入文件.py[line:15] - ERROR: 这是一个error级别的日志
+2023-05-17 12:50:46,080"- 9-Python中logging日志信息写入文件.py[line:16] - CRITICAL: 这是一个critical级别的日志
